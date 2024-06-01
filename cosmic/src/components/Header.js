@@ -100,16 +100,6 @@ export default function Header() {
             </div>
             <div className="header__right">
               <div className="header__right__button">
-                <div className="serach-button-style1">
-                  <button type="button" className="search-toggler">
-                    <i className="icon-50" />
-                  </button>
-                </div>
-                <div className="shopping-cart-box">
-                  <a href="shop.html">
-                    <i className="icon-19" />
-                  </a>
-                </div>
                 <div className="header-right_buttom">
                   <div className="btns-box">
                     <a className="btn-one" href="index.html">

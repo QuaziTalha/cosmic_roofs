@@ -12,7 +12,7 @@ export default function Footer() {
                   <div className="logo-widget">
                     <figure className="footer-logo">
                       <a href="index.html">
-                        <img src="images/footer-logo.png" alt />
+                        <img src="images/logo.png" alt />
                       </a>
                     </figure>
                   </div>
